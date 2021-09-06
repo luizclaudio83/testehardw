@@ -1,4 +1,20 @@
 {
+  
+  "background_color": "#ff0000",
+  "description": "testando",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Hardware",
+  "orientation": "any",
+  "scope": "https://luizclaudio83.github.io/testeapp/",
+  "short_name": "testeHard",
+  "start_url": "/index.html",
+  "theme_color": "#10d531",
+  "categories": [],
+  "screenshots": [],
+  "shortcuts": [],
+
+  
   "dir": "auto",
   "display": "standalone",
   "name": "testeHARD",
