@@ -1,20 +1,5 @@
-{
-  
-  "background_color": "#ff0000",
-  "description": "testando",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "Hardware",
-  "orientation": "any",
-  "scope": "https://luizclaudio83.github.io/testeapp/",
-  "short_name": "testeHard",
-  "start_url": "/index.html",
-  "theme_color": "#10d531",
-  "categories": [],
-  "screenshots": [],
-  "shortcuts": [],
-
-  
+{  
+   
   "dir": "auto",
   "display": "standalone",
   "name": "testeHARD",
@@ -24,6 +9,7 @@
   "description": "harware description",
   "theme_color": "#e23232",
   "background_color": "#ae3232",
+    "start_url": "/index.html",
   "icons": [
     {
       "src": "images/71x71.png",
