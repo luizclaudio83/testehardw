@@ -9,7 +9,6 @@
   "description": "harware description",
   "theme_color": "#e23232",
   "background_color": "#ae3232",
-    "start_url": "/index.html",
   "icons": [
     {
       "src": "images/71x71.png",
