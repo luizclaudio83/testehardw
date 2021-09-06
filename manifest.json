@@ -3,9 +3,9 @@
   "display": "standalone",
   "name": "testeHARD",
   "short_name": "HARD",
-  "scope": "https://luizclaudio83.github.io/testeapp/index.html",
+  "scope": "https://luizclaudio83.github.io/testeapp",
   "lang": "pt",
-  "description": "placeholder description",
+  "description": "harware description",
   "theme_color": "#e23232",
   "background_color": "#ae3232",
   "icons": [
