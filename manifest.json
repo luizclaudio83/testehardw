@@ -1,9 +1,9 @@
 {
   "dir": "auto",
   "display": "standalone",
-  "name": "placeholder",
-  "short_name": "placeholder",
-  "scope": "https://luizclaudio83.github.io/testeapp/",
+  "name": "testeHARD",
+  "short_name": "HARD",
+  "scope": "https://luizclaudio83.github.io/testeapp/index.html",
   "lang": "pt",
   "description": "placeholder description",
   "theme_color": "#e23232",
