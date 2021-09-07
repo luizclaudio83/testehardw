@@ -1,8 +1,9 @@
 {
+        
     "theme_color": "#f69435",
     "background_color": "#f69435",
     "display": "standalone",
-    "scope": "/",
+    "Scope": "/",
     "start_url": "/",
     "name": "hardsensor",
     "short_name": "hd",
