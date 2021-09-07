@@ -7,7 +7,7 @@
        
         <script type="text/javascript">
         if ("serviceWorker" in navigator) {
-           navigator.serviceWorker.register("generate-sw.js").then(function(registration) {
+           navigator.serviceWorker.register("/generate-sw.js").then(function(registration) {
 	    console.log("Service Worker registration successful with scope: ", registration.scope);
 	 }).catch(function(err) {
 	    console.log("Service Worker registration failed: ", err);
@@ -15,7 +15,7 @@
 	}
        </script>
 	   
-	    <link rel="manifest" href="manifest.json">
+	    <link rel="manifest" href="/manifest.json">
 	    
 	
 
