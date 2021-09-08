@@ -4,7 +4,7 @@
     "background_color": "#f69435",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/index.html",
+    "start_url": "/",
     "name": "hardsensor",
     "short_name": "hd",
     "icons": [
