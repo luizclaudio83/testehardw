@@ -16,7 +16,8 @@ const CACHE_STATIC = [
 //rotas das paginas do site
  const CACHE_APP = [
     '/',
-    '/index',
+    '/www',
+    
   
  ];
 
