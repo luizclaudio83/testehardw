@@ -1,33 +1,58 @@
 {
-        
-    "theme_color": "#f69435",
-    "background_color": "#f69435",
-    "display": "standalone",
-    "scope": "/",
-    "start_url": "https://luizclaudio83.github.io/testehardw/",
-    "name": "hardsensor",
-    "short_name": "hd",
-    "icons": [
-        {
-            "src": "https://luizclaudio83.github.io/testehardw/image/icon-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "https://luizclaudio83.github.io/testehardw/image/icon-256x256.png",
-            "sizes": "256x256",
-            "type": "image/png"
-        },
-        {
-            "src": "https://luizclaudio83.github.io/testehardw/image/icon-384x384.png",
-            "sizes": "384x384",
-            "type": "image/png"
-        },
-        {
-            "src": "https://luizclaudio83.github.io/testehardw/image/icon-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
-      ],
-  "splash_pages": null
+  "name": "GitHub",
+  "short_name": "GitHub",
+  "icons": [
+    {
+      "sizes": "114x114",
+      "src": "images/114x114.png"
+    },
+    {
+      "sizes": "120x120",
+      "src": "images/120x120.png"
+    },
+    {
+      "sizes": "144x144",
+      "src": "images/144x144.png"
+    },
+    {
+      "sizes": "152x152",
+      "src": "images/152x152.png"
+    },
+    {
+      "sizes": "180x180",
+      "src": "images/180x180.png"
+    },
+    {
+      "sizes": "57x57",
+      "src": "images/57x57.png"
+    },
+    {
+      "sizes": "60x60",
+      "src": "images/60x60.png"
+    },
+    {
+      "sizes": "72x72",
+      "src": "images/72x72.png"
+    },
+    {
+      "sizes": "76x76",
+      "src": "images/76x76.png"
+    },
+    {
+      "src": "images/192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "prefer_related_applications": true,
+  "related_applications": {
+    "platform": "play",
+    "url": "https://play.google.com/store/apps/details?id=com.github.android",
+    "id": "com.github.android"
+  }
 }
