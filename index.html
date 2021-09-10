@@ -6,7 +6,16 @@
         <title>Meu App v 1.0.0</title>
         <link rel="manifest" href="manifest.json">
 	 
-	    
+	<script type="text/javascript">
+        if ("serviceWorker" in navigator) {
+           navigator.serviceWorker.register("generate-sw.js").then(function(registration) {
+	    console.log("Service Worker registration successful with scope: ", registration.scope);
+	 }).catch(function(err) {
+	    console.log("Service Worker registration failed: ", err);
+	   });
+	}
+       </script>
+        
    
         <link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css">
         
@@ -194,16 +203,7 @@
     </head>
     <body>
 	    
-	<script type="text/javascript">
-        if ("serviceWorker" in navigator) {
-           navigator.serviceWorker.register("generate-sw.js").then(function(registration) {
-	    console.log("Service Worker registration successful with scope: ", registration.scope);
-	 }).catch(function(err) {
-	    console.log("Service Worker registration failed: ", err);
-	   });
-	}
-       </script>
-        
+	
         
         <div data-role="page" id="principal">
         
