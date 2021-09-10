@@ -1,58 +1,60 @@
 {
-  "name": "sensor",
-  "short_name": "sensor",
+  "name": "Gitvai",
+  "short_name": "Gitvai",
   "icons": [
     {
       "sizes": "114x114",
-      "src": "images/114x114.png"
+      "src": "https://github.githubassets.com/apple-touch-icon-114x114.png"
     },
     {
       "sizes": "120x120",
-      "src": "images/120x120.png"
+      "src": "https://github.githubassets.com/apple-touch-icon-120x120.png"
     },
     {
       "sizes": "144x144",
-      "src": "images/144x144.png"
+      "src": "https://github.githubassets.com/apple-touch-icon-144x144.png"
     },
     {
       "sizes": "152x152",
-      "src": "images/152x152.png"
+      "src": "https://github.githubassets.com/apple-touch-icon-152x152.png"
     },
     {
       "sizes": "180x180",
-      "src": "images/180x180.png"
+      "src": "https://github.githubassets.com/apple-touch-icon-180x180.png"
     },
     {
       "sizes": "57x57",
-      "src": "images/57x57.png"
+      "src": "https://github.githubassets.com/apple-touch-icon-57x57.png"
     },
     {
       "sizes": "60x60",
-      "src": "images/60x60.png"
+      "src": "https://github.githubassets.com/apple-touch-icon-60x60.png"
     },
     {
       "sizes": "72x72",
-      "src": "images/72x72.png"
+      "src": "https://github.githubassets.com/apple-touch-icon-72x72.png"
     },
     {
       "sizes": "76x76",
-      "src": "images/76x76.png"
+      "src": "https://github.githubassets.com/apple-touch-icon-76x76.png"
     },
     {
-      "src": "images/192x192.png",
+      "src": "https://github.githubassets.com/app-icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "images/512x512.png",
+      "src": "https://github.githubassets.com/app-icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
   "prefer_related_applications": true,
-  "related_applications": {
-    "platform": "play",
-    "url": "https://luizclaudio83.github.io/testehardw/",
-    "id": "com.github.android"
-  }
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.github.android",
+      "id": "com.github.android"
+    }
+  ]
 }
