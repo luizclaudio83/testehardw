@@ -3,7 +3,7 @@
     "background_color": "#f69435",
     "display": "standalone",
     "scope": "/",
-    "start_url": "https://luizclaudio83.github.io/testehardw/",
+    "start_url": "https://luizclaudio83.github.io/sensores/index.html",
     "name": "hardsensor",
     "short_name": "hd",
     "icons": [
